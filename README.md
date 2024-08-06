@@ -14,8 +14,11 @@ Data considered - Process time %
 Baseline data is the behaviural data of normal behaviour of system before introducing mlawares into it.
 # System Data: 
   OS: Windows 10;
+  
   RAM: 8GB;
+  
   ROM: 95GB;
+  
   Softwares installed: MS Office, Brave browser, VLC player
   
              
