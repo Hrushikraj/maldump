@@ -8,9 +8,9 @@ Compiled comprehensive reports on various malware samples, documenting behavior,
 Leveraged specialized tools and techniques to conduct in-depth analysis and provide actionable insights.
 
 ## This repo also Contains the behaviural data of malwares with the samples 
-Data considered - Process time %
-                - System Threads
-                - Context Switches
+Data considered - Process time % <br />
+                - System Threads <br />
+                - Context Switches <br />
 Baseline data is the behaviural data of normal behaviour of system before introducing mlawares into it.
 ## System Parameters:  
   >Operating System: Windows 10; <br />
