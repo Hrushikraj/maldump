@@ -18,7 +18,9 @@ Baseline data is the behaviural data of normal behaviour of system before introd
   >RAM: 8GB;<br />
   >ROM: 95GB;<br />
   Softwares installed: MS Office, Brave browser, VLC player
+**Contact for more details:**
 
+ [<img src="./LOCAL/telegram2.png"  width=25% height=25%>](https://t.me/lazyhacker25) 
 ## Malware samples:
 
 ### Worm:
